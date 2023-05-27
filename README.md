@@ -2,4 +2,4 @@
 KolayIK_Starter
 
 
-<img src="https://i.hizliresim.com/mzmpn27.gif" width="1280" height="720" />
+<img src="https://i.hizliresim.com/mzmpn27.gif" width="1000" height="563" />
