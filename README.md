@@ -2,4 +2,4 @@
 KolayIK_Starter
 
 
-<img src="https://i.hizliresim.com/nyhr31m.gif" width="1280" height="480" />
+<img src="https://i.hizliresim.com/nyhr31m.gif" width="1400" height="480" />
