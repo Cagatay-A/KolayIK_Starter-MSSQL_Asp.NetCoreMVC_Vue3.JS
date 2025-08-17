@@ -2,7 +2,7 @@
 KolayIK_Starter
 
 
-<img src="https://i.imgur.com/4JGn0hX.gif" width="1280" height="480" />
+<img src="https://i.hizliresim.com/nyhr31m.gif" width="128" height="48" />
 
 <img src="https://i.imgur.com/LoeXk4k.png" />
 
