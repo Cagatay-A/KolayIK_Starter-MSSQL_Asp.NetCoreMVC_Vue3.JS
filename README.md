@@ -1,7 +1,7 @@
 # KolayIK_Starter-MSSQL_Asp.NetCoreMVC_Vue3.JS
 KolayIK_Starter
 
-<h5>Gif : <a>https://i.hizliresim.com/nyhr31m.gif</a>  </h5>
+<h5>Gif : <link rel="stylesheet" href=">https://i.hizliresim.com/nyhr31m.gif">  </h5>
 
 
 <img src="https://i.hizliresim.com/nyhr31m.gif" width="1280" height="480" />
